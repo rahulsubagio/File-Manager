@@ -1,15 +1,3 @@
-**Database name `drive.sql`**
-
-You can login for trying using this account :
-
--> email : rahul@gmail.com pass : rahul
-
--> email : rara@gmail.com pass : rara
-
--> email : rere@gmail.com pass : rere
-
--> email : ruru@gmail.com pass : ruru
-
 ###################
 What is CodeIgniter
 ###################
@@ -80,3 +68,16 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+**Database name `drive.sql`**
+
+You can login for trying using this account :
+
+-> email : rahul@gmail.com pass : rahul
+
+-> email : rara@gmail.com pass : rara
+
+-> email : rere@gmail.com pass : rere
+
+-> email : ruru@gmail.com pass : ruru
