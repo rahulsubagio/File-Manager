@@ -78,7 +78,3 @@ You can login for trying using this account :
 -> email : rahul@gmail.com pass : rahul
 
 -> email : rara@gmail.com pass : rara
-
--> email : rere@gmail.com pass : rere
-
--> email : ruru@gmail.com pass : ruru
